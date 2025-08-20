@@ -1,1 +1,4 @@
 qutip
+matplotlib
+IPython
+numpy
